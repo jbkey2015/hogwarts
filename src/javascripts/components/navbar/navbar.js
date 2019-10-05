@@ -11,7 +11,7 @@ const loadNavbar = () => {
         <a href="#">Home</a>
       </li>
     </ul>
-  <nav>
+  </nav>
   `;
   utilities.printToDom('nav-container', domString);
 };
